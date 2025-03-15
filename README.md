@@ -30,14 +30,10 @@ Initial release of the Chrome Remote Desktop Setup Script, providing automated i
 
 ### Post-Installation
 After running the script, users must complete the setup by:
-1. Visiting the Google Remote Desktop headless setup page
+1. Visiting the [Google Remote Desktop headless setup page](https://remotedesktop.google.com/headless)
 2. Authenticating with their Google account
 3. Running the provided command on their machine
 4. Setting a secure PIN for remote access
 
 ### Feedback and Support
 We welcome feedback and suggestions for improving this script. Please report any issues or feature requests through our issue tracker.
-
----
-
-Thank you for using the Chrome Remote Desktop Setup Script!
